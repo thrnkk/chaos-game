@@ -1,5 +1,7 @@
 <p align="center">
-  <img src="https://shiftingmind.com/chaosgame/images/chaos1.gif">
+  <img height="300px" widht="300px" src="./images/chaosSquare.png">
+  <img height="300px" widht="300px" src="./images/chaosSierpinskiTriangle.png">
+  <img height="300px" widht="300px" src="./images/chaosTSquare.png">
 </p>
 
 ## :computer: Projeto
