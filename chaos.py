@@ -27,12 +27,12 @@ for y in range(70):
 
 # ====================================================================
 
-# Triangle
+# Triangle - Sierpinski Triangle
 points = [(350,  100), (50,  650), (650, 650)]
 multiplier = 0.5
 type = ""
 
-# Square
+# Square - T Square
 # points = [(150, 150), (150, 550), (550, 550), (550, 150)]
 # multiplier = 1/2
 # type = "vertexPreviousNot2PlacesAway"
@@ -50,7 +50,7 @@ running = True
 colors = []
 actualPoint = points[0]
 lastPointToGo = 0
-total = 10000
+total = 50000
 counter = 0
 
 # Create a blank square on top
@@ -106,7 +106,7 @@ while running:
 
         updatePoints()
 
-        pygame.draw.rect(screen, colors[pointToGo], newPoint + (4, 4))
+        pygame.draw.rect(screen, colors[pointToGo], newPoint + (2, 2))
         actualPoint = newPoint
         lastPointToGo = pointToGo
         counter += 1
