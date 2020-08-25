@@ -31,5 +31,5 @@ Para conseguir executar o projeto será necessário o uso das seguintes bibliote
 ---
 
 <p align="center">
-  <a href="https://github.com/ThRnk" ><img src="https://img.shields.io/badge/github-ThRnk-24292e"></a>
+  <a href="https://github.com/thrnkk" ><img src="https://img.shields.io/badge/github-thrnkk-24292e"></a>
 </p>
